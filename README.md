@@ -1,6 +1,7 @@
 # gonode-desafio-3
 
 Desafio do Bootcamp GoNode - Rocketseat
+Marketplace - API em NodeJS utilizando MongoDB
 
 # Instalando as dependências do projeto
 
